@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "intent": "AskGrandmomIntentWithArticle",
+      "slots": [
+        {
+          "name": "SomethingSingular",
+          "type": "LIST_OF_SOMETHINGS_SINGULAR"
+        }
+      ]
+    },
+    {
+      "intent": "AskGrandmomIntentWithoutArticle",
+      "slots": [
+        {
+          "name": "SomethingPlural",
+          "type": "LIST_OF_SOMETHINGS_PLURAL"
+        }
+      ]
+    },
+    {
+      "intent": "AskForMoneyIntent",
+      "slots": [
+        {
+          "name": "Amount",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "Monies",
+          "type": "LIST_OF_MONIES"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.StopIntent",
+      "slots": []
+    },
+    {
+      "intent": "AMAZON.CancelIntent",
+      "slots": []
+    }
+  ]
+}

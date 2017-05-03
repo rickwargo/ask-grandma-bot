@@ -1,0 +1,193 @@
+AskGrandmomIntentWithArticle	a {SomethingSingular}
+AskGrandmomIntentWithArticle	an {SomethingSingular}
+AskGrandmomIntentWithArticle	the {SomethingSingular}
+AskGrandmomIntentWithArticle	may I get a {SomethingSingular}
+AskGrandmomIntentWithArticle	can I get a {SomethingSingular}
+AskGrandmomIntentWithArticle	may I have a {SomethingSingular}
+AskGrandmomIntentWithArticle	can I have a {SomethingSingular}
+AskGrandmomIntentWithArticle	may I get an {SomethingSingular}
+AskGrandmomIntentWithArticle	can I get an {SomethingSingular}
+AskGrandmomIntentWithArticle	may I have an {SomethingSingular}
+AskGrandmomIntentWithArticle	can I have an {SomethingSingular}
+AskGrandmomIntentWithArticle	may I get the {SomethingSingular}
+AskGrandmomIntentWithArticle	can I get the {SomethingSingular}
+AskGrandmomIntentWithArticle	may I have the {SomethingSingular}
+AskGrandmomIntentWithArticle	can I have the {SomethingSingular}
+AskGrandmomIntentWithArticle	I can get a {SomethingSingular}
+AskGrandmomIntentWithArticle	I can have a {SomethingSingular}
+AskGrandmomIntentWithArticle	I can get an {SomethingSingular}
+AskGrandmomIntentWithArticle	I can have an {SomethingSingular}
+AskGrandmomIntentWithArticle	I can get the {SomethingSingular}
+AskGrandmomIntentWithArticle	I can have the {SomethingSingular}
+AskGrandmomIntentWithArticle	what about a {SomethingSingular}
+AskGrandmomIntentWithArticle	what about an {SomethingSingular}
+AskGrandmomIntentWithArticle	what about the {SomethingSingular}
+AskGrandmomIntentWithArticle	I want a {SomethingSingular}
+AskGrandmomIntentWithArticle	I would want a {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd want a {SomethingSingular}
+AskGrandmomIntentWithArticle	I need a {SomethingSingular}
+AskGrandmomIntentWithArticle	I would need a {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd need a {SomethingSingular}
+AskGrandmomIntentWithArticle	I like a {SomethingSingular}
+AskGrandmomIntentWithArticle	I would like a {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd like a {SomethingSingular}
+AskGrandmomIntentWithArticle	I want an {SomethingSingular}
+AskGrandmomIntentWithArticle	I would want an {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd want an {SomethingSingular}
+AskGrandmomIntentWithArticle	I need an {SomethingSingular}
+AskGrandmomIntentWithArticle	I would need an {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd need an {SomethingSingular}
+AskGrandmomIntentWithArticle	I like an {SomethingSingular}
+AskGrandmomIntentWithArticle	I would like an {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd like an {SomethingSingular}
+AskGrandmomIntentWithArticle	I want the {SomethingSingular}
+AskGrandmomIntentWithArticle	I would want the {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd want the {SomethingSingular}
+AskGrandmomIntentWithArticle	I need the {SomethingSingular}
+AskGrandmomIntentWithArticle	I would need the {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd need the {SomethingSingular}
+AskGrandmomIntentWithArticle	I like the {SomethingSingular}
+AskGrandmomIntentWithArticle	I would like the {SomethingSingular}
+AskGrandmomIntentWithArticle	I'd like the {SomethingSingular}
+AskGrandmomIntentWithArticle	give me a {SomethingSingular}
+AskGrandmomIntentWithArticle	give me an {SomethingSingular}
+AskGrandmomIntentWithArticle	give me the {SomethingSingular}
+AskGrandmomIntentWithoutArticle	{SomethingPlural}
+AskGrandmomIntentWithoutArticle	some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	may I get some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	can I get some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	may I have some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	can I have some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	may I get those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	can I get those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	may I have those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	can I have those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I can get some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I can have some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I can get those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I can have those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	what about some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	what about those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I want some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would want some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd want some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I need some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would need some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd need some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I like some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would like some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd like some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I want those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would want those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd want those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I need those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would need those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd need those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I like those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I would like those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	I'd like those {SomethingPlural}
+AskGrandmomIntentWithoutArticle	give me some {SomethingPlural}
+AskGrandmomIntentWithoutArticle	give me those {SomethingPlural}
+AskForMoneyIntent	I get {Amount} {Monies}
+AskForMoneyIntent	may I get {Amount} {Monies}
+AskForMoneyIntent	can I get {Amount} {Monies}
+AskForMoneyIntent	I have {Amount} {Monies}
+AskForMoneyIntent	may I have {Amount} {Monies}
+AskForMoneyIntent	can I have {Amount} {Monies}
+AskForMoneyIntent	I want {Amount} {Monies}
+AskForMoneyIntent	may I want {Amount} {Monies}
+AskForMoneyIntent	can I want {Amount} {Monies}
+AskForMoneyIntent	I need {Amount} {Monies}
+AskForMoneyIntent	may I need {Amount} {Monies}
+AskForMoneyIntent	can I need {Amount} {Monies}
+AskForMoneyIntent	I get a {Amount} {Monies}
+AskForMoneyIntent	may I get a {Amount} {Monies}
+AskForMoneyIntent	can I get a {Amount} {Monies}
+AskForMoneyIntent	I have a {Amount} {Monies}
+AskForMoneyIntent	may I have a {Amount} {Monies}
+AskForMoneyIntent	can I have a {Amount} {Monies}
+AskForMoneyIntent	I want a {Amount} {Monies}
+AskForMoneyIntent	may I want a {Amount} {Monies}
+AskForMoneyIntent	can I want a {Amount} {Monies}
+AskForMoneyIntent	I need a {Amount} {Monies}
+AskForMoneyIntent	may I need a {Amount} {Monies}
+AskForMoneyIntent	can I need a {Amount} {Monies}
+AskForMoneyIntent	I get an {Amount} {Monies}
+AskForMoneyIntent	may I get an {Amount} {Monies}
+AskForMoneyIntent	can I get an {Amount} {Monies}
+AskForMoneyIntent	I have an {Amount} {Monies}
+AskForMoneyIntent	may I have an {Amount} {Monies}
+AskForMoneyIntent	can I have an {Amount} {Monies}
+AskForMoneyIntent	I want an {Amount} {Monies}
+AskForMoneyIntent	may I want an {Amount} {Monies}
+AskForMoneyIntent	can I want an {Amount} {Monies}
+AskForMoneyIntent	I need an {Amount} {Monies}
+AskForMoneyIntent	may I need an {Amount} {Monies}
+AskForMoneyIntent	can I need an {Amount} {Monies}
+AskForMoneyIntent	I get the {Amount} {Monies}
+AskForMoneyIntent	may I get the {Amount} {Monies}
+AskForMoneyIntent	can I get the {Amount} {Monies}
+AskForMoneyIntent	I have the {Amount} {Monies}
+AskForMoneyIntent	may I have the {Amount} {Monies}
+AskForMoneyIntent	can I have the {Amount} {Monies}
+AskForMoneyIntent	I want the {Amount} {Monies}
+AskForMoneyIntent	may I want the {Amount} {Monies}
+AskForMoneyIntent	can I want the {Amount} {Monies}
+AskForMoneyIntent	I need the {Amount} {Monies}
+AskForMoneyIntent	may I need the {Amount} {Monies}
+AskForMoneyIntent	can I need the {Amount} {Monies}
+AskForMoneyIntent	I get some {Amount} {Monies}
+AskForMoneyIntent	may I get some {Amount} {Monies}
+AskForMoneyIntent	can I get some {Amount} {Monies}
+AskForMoneyIntent	I have some {Amount} {Monies}
+AskForMoneyIntent	may I have some {Amount} {Monies}
+AskForMoneyIntent	can I have some {Amount} {Monies}
+AskForMoneyIntent	I want some {Amount} {Monies}
+AskForMoneyIntent	may I want some {Amount} {Monies}
+AskForMoneyIntent	can I want some {Amount} {Monies}
+AskForMoneyIntent	I need some {Amount} {Monies}
+AskForMoneyIntent	may I need some {Amount} {Monies}
+AskForMoneyIntent	can I need some {Amount} {Monies}
+AskForMoneyIntent	I get those {Amount} {Monies}
+AskForMoneyIntent	may I get those {Amount} {Monies}
+AskForMoneyIntent	can I get those {Amount} {Monies}
+AskForMoneyIntent	I have those {Amount} {Monies}
+AskForMoneyIntent	may I have those {Amount} {Monies}
+AskForMoneyIntent	can I have those {Amount} {Monies}
+AskForMoneyIntent	I want those {Amount} {Monies}
+AskForMoneyIntent	may I want those {Amount} {Monies}
+AskForMoneyIntent	can I want those {Amount} {Monies}
+AskForMoneyIntent	I need those {Amount} {Monies}
+AskForMoneyIntent	may I need those {Amount} {Monies}
+AskForMoneyIntent	can I need those {Amount} {Monies}
+AskForMoneyIntent	I can get a {Amount} {Monies}
+AskForMoneyIntent	I can have a {Amount} {Monies}
+AskForMoneyIntent	I can get an {Amount} {Monies}
+AskForMoneyIntent	I can have an {Amount} {Monies}
+AskForMoneyIntent	I can get the {Amount} {Monies}
+AskForMoneyIntent	I can have the {Amount} {Monies}
+AskForMoneyIntent	I can get some {Amount} {Monies}
+AskForMoneyIntent	I can have some {Amount} {Monies}
+AskForMoneyIntent	I can get those {Amount} {Monies}
+AskForMoneyIntent	I can have those {Amount} {Monies}
+AskForMoneyIntent	how about a {Amount} {Monies}
+AskForMoneyIntent	what about a {Amount} {Monies}
+AskForMoneyIntent	how about an {Amount} {Monies}
+AskForMoneyIntent	what about an {Amount} {Monies}
+AskForMoneyIntent	how about the {Amount} {Monies}
+AskForMoneyIntent	what about the {Amount} {Monies}
+AskForMoneyIntent	how about some {Amount} {Monies}
+AskForMoneyIntent	what about some {Amount} {Monies}
+AskForMoneyIntent	how about those {Amount} {Monies}
+AskForMoneyIntent	what about those {Amount} {Monies}
+AskForMoneyIntent	I want {Amount} {Monies}
+AskForMoneyIntent	I would want {Amount} {Monies}
+AskForMoneyIntent	I'd want {Amount} {Monies}
+AskForMoneyIntent	I need {Amount} {Monies}
+AskForMoneyIntent	I would need {Amount} {Monies}
+AskForMoneyIntent	I'd need {Amount} {Monies}
+AskForMoneyIntent	I like {Amount} {Monies}
+AskForMoneyIntent	I would like {Amount} {Monies}
+AskForMoneyIntent	I'd like {Amount} {Monies}
+AskForMoneyIntent	give me {Amount} {Monies}

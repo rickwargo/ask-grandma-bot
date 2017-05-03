@@ -1,0 +1,44 @@
+{
+  "name": "askGrandmom",
+  "version": "1.3.0",
+  "description": "Ask Grandmom provides comic relief as it realistically responds to questions asked by her grandchild.",
+  "main": "index.js",
+  "author": "Rick Wargo <github@rickwargo.com> (https://www.rickwargo.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickwargo/askGrandmom.git"
+  },
+  "alexa": {
+    "applicationId": "amzn1.echo-sdk-ams.app.64f5259f-6242-4e03-8104-5c4a1ad3f26a"
+  },
+  "dependencies": {
+    "aws-sdk": "2.2.x",
+    "bluebird": "2.10.x",
+    "js-combinatorics": "0.5.x",
+    "node-uuid": "1.4.x",
+    "numbered": "1.0.x"
+  },
+  "aws": {
+    "accessKeyId": "AKIAJITT554POXBUKTXA",
+    "secretAccessKey": "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",
+    "region": "us-east-1",
+    "sslEnabled": true
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "chai-as-promised": "^5.2.0",
+    "del": "^2.2.0",
+    "fs": "0.0.2",
+    "gulp-help": "^1.6.1",
+    "gulp-install": "^0.6.0",
+    "gulp-jshint": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-shell": "^0.5.1",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.0.2",
+    "jshint": "^2.8.0",
+    "node-aws-lambda": "^0.1.7",
+    "run-sequence": "^1.1.5"
+  }
+}

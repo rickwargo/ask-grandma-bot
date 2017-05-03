@@ -1,0 +1,33 @@
+LIST_OF_SOMETHINGS_SINGULAR
+---------------------------
+hug
+boat
+dog
+money
+
+LIST_OF_SOMETHINGS_PLURAL
+-------------------------
+love
+candy
+food
+money
+
+LIST_OF_MONIES
+--------------
+buck
+bucks
+dollar
+dollars
+quarter
+quarters
+dime
+dimes
+nickel
+nickels
+penny
+pennies
+half dollar
+half dollars
+silver dollar
+silver dollars
+
